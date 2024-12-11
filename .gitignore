@@ -19,3 +19,4 @@
 *.tar.gz
 *.rar
 ec2-kubeconfig
+kubernetes/ingress.yaml
